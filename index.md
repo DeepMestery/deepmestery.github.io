@@ -23,14 +23,7 @@
 进行了为期一个月的专业实习，在公司内部完全按照公司员工的要求来进行学习，遵守公司的规章制度，跟随公司内部开发人员学习开发方法和流程，体会到了大数据的开发的过程。  
 
 ## 专业技能展示
-GitHub主页上的代码是在大学期间的各种结果。  
-  
-博客园管理软件 [地址](https://github.com/DeepMestery/BlogManagement-Software)  
-  
-软件需求概论 [地址](https://github.com/DeepMestery/SoftwareRequirementAndAnalysis)  
-  
-软件工程概论 [地址](https://github.com/DeepMestery/Software)  
-  
+GitHub主页上的代码是在大学期间的各种结果。
 
 ## 博客地址
 
