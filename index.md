@@ -27,7 +27,12 @@ GitHub主页上的代码是在大学期间的各种结果。
   
 博客园管理软件  [链接地址](https://github.com/DeepMestery/BlogManagement-Software)  
   
-软件需求概论 [链接地址](https://github.com/DeepMestery/SoftwareRequirementAndAnalysis)  
+基于Java技术开发的，用于管理博客园，进行浏览，评分的好帮手。  
+PC端应用。
+  
+技术需求管理网站 [链接地址](https://github.com/DeepMestery/SoftwareRequirementAndAnalysis)  
+  
+基于H5+CSS+Javascript技术，用于管理技术需求，收集、保存、管理需求。
   
 软件工程概论 [链接地址](https://github.com/DeepMestery/Software)  
   
