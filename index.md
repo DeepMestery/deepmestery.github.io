@@ -24,6 +24,13 @@
 
 ## 专业技能展示
 GitHub主页上的代码是在大学期间的各种结果。  
+  
+博客园管理软件[地址](https://github.com/DeepMestery/BlogManagement-Software)  
+  
+软件需求概论[地址](https://github.com/DeepMestery/SoftwareRequirementAndAnalysis)  
+  
+软件工程概论[地址](https://github.com/DeepMestery/Software)  
+  
 
 ## 博客地址
 
